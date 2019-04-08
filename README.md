@@ -16,7 +16,6 @@ Functionalities:
 -> This is the Main Home Page of Application where you can order from The Given Menu:
 
 ![Screenshot](https://valiant-terminator.github.io/Restaurant_Management_Syatem/Ordering_Page.jpeg)
-<img src="https://valiant-terminator.github.io/Restaurant_Management_Syatem/Ordering_Page.jpeg">
 
 -> This is the Create Administrator Access Page where you can add a new Administrator:
 
