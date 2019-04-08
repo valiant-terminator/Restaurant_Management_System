@@ -15,16 +15,16 @@ Functionalities:
 
 -> This is the Main Home Page of Application where you can order from The Given Menu:
 
-![alt text](https://valiant-terminator.github.io/Restaurant_Management_Syatem/Ordering_Page.jpeg)
+![Screenshot](https://valiant-terminator.github.io/Restaurant_Management_Syatem/Ordering_Page.jpeg)
 
 -> This is the Create Administrator Access Page where you can add a new Administrator:
 
-![alt text](https://valiant-terminator.github.io/Restaurant_Management_System/Create_Adiministrator.jpeg)
+![Screenshot](https://valiant-terminator.github.io/Restaurant_Management_System/Create_Adiministrator.jpeg)
 
 ->This is the Credentials Entering Access Page where one can validate the Credentials:
 
-![alt text](https://valiant-terminator.github.io/Restaurant_Management_System/Enter_Credentials.jpeg)
+![Screenshot](https://valiant-terminator.github.io/Restaurant_Management_System/Enter_Credentials.jpeg)
 
 ->This is the TreeView Section of the Orders that have been entered till now:
 
-![alt text](https://valiant-terminator.github.io/Restaurant_Management_System/Restaurant_Treeview.jpeg)
+![Screenshot](https://valiant-terminator.github.io/Restaurant_Management_System/Restaurant_Treeview.jpeg)
