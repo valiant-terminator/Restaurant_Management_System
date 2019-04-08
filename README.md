@@ -4,6 +4,7 @@
 This Tkinter GUI based application can be used for any Restaurant
 
 Functionalities:
+
 1.Can choose from pre-Defined (but updatable) menu of a Restaurant via different buttons(Via Tkinter GUI).
 
 2.Can save orders into a database(Using SQLite Database).
